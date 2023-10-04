@@ -1,4 +1,5 @@
 # Weather App
+This application provides real-time weather information for any location worldwide and is designed to be accessible and responsive on all devices.
 
 **Built with HTML, CSS and JavaScript.**
 
